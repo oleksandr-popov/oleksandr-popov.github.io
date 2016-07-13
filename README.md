@@ -1,2 +1,29 @@
-# oleksandr-popov.github.io
 Personal page for Github
+=========================
+
+List of personal open source projects:
+======================================
+
+## Desktop Apps
+- [Guardin Of Passwords](https://github.com/oleksandr-popov/GuardianOfPasswords)
+- [Martlet](https://github.com/oleksandr-popov/Martlet)
+
+## Extensions
+- [vscode-golang](https://github.com/oleksandr-popov/vscode-golang)
+- [vscode-kotlin](https://github.com/oleksandr-popov/vscode-kotlin)
+- [vscode-overgit](https://github.com/oleksandr-popov/vscode-overgit)
+
+
+Copyright © 2016 Oleksandr Popov
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
